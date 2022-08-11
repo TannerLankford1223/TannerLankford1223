@@ -23,7 +23,7 @@ I am a passionate backend engineer interested in developing scalable cloud based
 
 - :seedling: I'm interested in learning new technologies and design patterns to improve efficiency and scalability
 
-- :zap: In my free time, I enjoy reading technical articles and going on hikes with my wife and dog
+- :zap: In my free time I enjoy reading technical articles and going for runs on my local trails
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tanner-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tannerlankford/)
 
