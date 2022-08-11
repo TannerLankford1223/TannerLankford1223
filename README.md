@@ -18,10 +18,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a passionate backend engineer interested in developing scalable architectures.
+I am a passionate backend engineer interested in developing scalable cloud based architectures and distributed systems.
 - :telescope: I'm currently working on learning more about ReactJS and getting my AWS Cloud Practitioner certifaction
 
-- :seedling: I'm interested in learning new technologies and more about cloud based applications and distributed systems
+- :seedling: I'm interested in learning new technologies and design patterns to improve efficiency and scalability
 
 - :zap: In my free time, I enjoy reading technical articles and going on hikes with my wife and dog
 
